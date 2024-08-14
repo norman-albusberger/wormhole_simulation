@@ -29,6 +29,7 @@ The script performs the following tasks:
 To run the script, you will need Python and the following libraries:
 - `numpy`
 - `matplotlib`
+- `scipy`
 
 After installing the dependencies, you can run the script to generate simulations and visualizations.
 
